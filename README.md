@@ -16,10 +16,6 @@ Este é um jogo educativo desenvolvido em **JavaScript**, com o objetivo de torn
 
 Os jogadores devem completar desafios relacionados a [tema do jogo] enquanto exploram um ambiente colorido e dinâmico. O jogo oferece feedback positivo para incentivar o aprendizado contínuo.
 
-## 📷 Imagem do Jogo
-
-> **Substitua a imagem acima pelo arquivo correto do seu jogo**.
-
 ## 🕹️ Como Jogar
 
 1. Abra o arquivo `index.html` no seu navegador.
@@ -30,7 +26,7 @@ Os jogadores devem completar desafios relacionados a [tema do jogo] enquanto exp
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/charliehenrikis/game-js
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -61,5 +57,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido por [Seu Nome] 🚀
+Desenvolvido por Charlie Henrikis 🚀
 
