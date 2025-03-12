@@ -18,11 +18,11 @@ Os jogadores devem completar desafios relacionados a [tema do jogo] enquanto exp
 
 ## 🕹️ Como Jogar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Clique aqui > https://game-js-gilt.vercel.app/
 2. Utilize o teclado e/ou mouse para interagir com o jogo.
 3. Complete os desafios e avance para os próximos níveis!
 
-## 📌 Como Executar o Projeto
+## 📌 Como ter o Projeto em sua máquina
 
 1. Clone este repositório:
    ```bash
